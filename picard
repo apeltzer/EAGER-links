@@ -1,0 +1,2 @@
+#!/bin/bash
+java -jar /path/to/picard-tools-1.140/picard.jar $*

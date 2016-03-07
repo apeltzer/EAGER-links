@@ -1,0 +1,2 @@
+#!/bin/bash
+java -jar /path/to/vcf2genome/VCF2Genomev0.84.jar $*

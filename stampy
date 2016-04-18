@@ -1,2 +1,2 @@
 #!/bin/bash
-java -jar /path/to/stampy/stampy $*
+python2.7 /path/to/stampy/stampy.py $*

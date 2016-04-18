@@ -1,2 +1,2 @@
 #!/bin/bash
-java -jar /path/to/fastxtools/fastq_quality_trimmer $*
+/path/to/fastxtools/fastq_quality_trimmer $*

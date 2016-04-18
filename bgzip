@@ -1,2 +1,2 @@
 #!/bin/bash
-java -jar /path/to/bgzip/bgzip $*
+/path/to/bgzip/bgzip $*

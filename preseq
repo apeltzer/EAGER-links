@@ -1,2 +1,2 @@
 #!/bin/bash
-java -jar /path/to/preseq/preseq $*
+/path/to/preseq/preseq $*

@@ -1,2 +1,2 @@
 #!/bin/bash
-java -jar /path/to/bowtie2/bowtie2-build $*
+/path/to/bowtie2/bowtie2-build $*
